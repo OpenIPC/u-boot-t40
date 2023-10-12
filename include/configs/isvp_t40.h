@@ -922,4 +922,6 @@
 #define CONFIG_SYS_MAX_FLASH_SECT 0
 #endif
 
+#include "isvp_common.h"
+
 #endif /* __CONFIG_ISVP_T40_H__ */
